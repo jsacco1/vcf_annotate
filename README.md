@@ -15,7 +15,7 @@ exac_allele_freq: allele frequency, from ExAC
 Note: If there are multiple variant effects, the annotation is the most deleterious one. Script contains the an ordered list of variant effect severity, sourced from Ensembl.
 
 ## Usage
-Command line
+Command line: 
 python3 vcf_annotate.py —INPUT.vcf —OUTPUT_FILE_NAME
 
 ## Dependencies
