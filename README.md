@@ -1,7 +1,7 @@
 # vcf_annotate
 
 ## Description
-This repository contains a prototyped VCF parser and ExAC annotation tool. In the command line interface, the user inputs a VCF v41.1 file, and returns an annotated CSV file with additional variant information columns from the ExAC database.
+A prototype VCF parser and ExAC annotation tool. In the command line interface, the user supplies a VCF file (v4.1) to the module, which returns an annotated file, with additional variant information columns extracted via the ExAC database API.
 
 ExAC API can be found here:
 >  http://exac.hms.harvard.edu/
