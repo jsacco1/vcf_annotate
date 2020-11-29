@@ -4,7 +4,7 @@
 A prototype VCF parser and ExAC annotation tool. In the command line interface, the user supplies a VCF file (v4.1) to the module, which returns an annotated CSV file, with additional variant information columns extracted via the ExAC database API.
 
 ExAC API can be found here:
--  http://exac.hms.harvard.edu/
+>  http://exac.hms.harvard.edu/
 
 Each variant has the following information: 
 - *var_type*: type of variation (CNV, indel, etc.)
