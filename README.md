@@ -19,7 +19,7 @@ Note: If there are multiple variant effects, the annotation is the *most deleter
 ## Usage
 Command line:
 ```
-python3 vcf_annotate.py —INPUT.vcf —OUTPUT_FILE_NAME
+python3 vcf_parser_prototype.py —INPUT.vcf —OUTPUT_FILE_NAME
 ```
 
 
