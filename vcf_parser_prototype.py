@@ -262,7 +262,7 @@ def main(infile, outfile):
     features = []
     for var in range(len(variant_type)):
         if csqs[var]:
-            variant_type[var][0] += ' (VEP CSQ: ' + csqs[var] + ')'
+            variant_type[var][0] += ' (VEP: ' + csqs[var] + ')'
         features.append(
             variant_type[var]
             + variant_depth[var]
