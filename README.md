@@ -8,7 +8,7 @@ ExAC API can be found here:
 
 Each variant has the following information: 
 - *var_type*: type of variation (complex, insertion, deletion, etc.)
-- *effect*:  genotype consequence (missense, synonymous, etc.) 
+- *VEP*:  genotype consequence (missense, synonymous, etc.) 
 - *depth*: depth of sequence coverage at the site of variation
 - *num_reads*: number of reads supporting the variant versus those supporting reference reads
 - *percent_variant_support*: percent of reads supporting variant
