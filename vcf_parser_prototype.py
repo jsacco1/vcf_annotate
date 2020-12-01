@@ -5,7 +5,6 @@
 Description: Annotate a VCF file with variant information (allele frequency, effect, etc.) from ExAC. Returns an csqstated VCF as a CSV file.
 
 Author: James Sacco
-Date: 11/19/2020
 Contact email: jsacco001@gmail.com
 """
 
