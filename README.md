@@ -18,8 +18,9 @@ Note: If there are multiple variant effects, the annotation is the *most deleter
 
 ## Usage
 Command line:
+Names in < > are for the user to replace with the appropriate file names.
 ```
-python3 vcf_parser_prototype.py —INPUT.vcf —OUTPUT_FILE_NAME
+python3 vcf_parser_prototype.py <INPUT.vcf> <OUTPUT_FILE_NAME>
 ```
 
 
