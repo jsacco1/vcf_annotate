@@ -7,10 +7,11 @@ ExAC API can be found here:
 >  http://exac.hms.harvard.edu/
 
 Each variant has the following information: 
-- *var_type*: type of variation (CNV, indel, etc.)
-- *effect*:  amino acid effect (missense, silent, etc.) 
+- *var_type*: type of variation (complex, insertion, deletion, etc.)
+- *effect*:  genotype consequence (missense, synonymous, etc.) 
 - *depth*: depth of sequence coverage at the site of variation
 - *num_reads*: number of reads supporting the variant versus those supporting reference reads
+- *percent_variant_support*: percent of reads supporting variant
 - *exac_allele_freq*: allele frequency, from ExAC
 
 Note: If there are multiple variant effects, the annotation is the *most deleterious* one. Script contains the an ordered list of variant effect severity, sourced from Ensembl.
