@@ -23,4 +23,4 @@ python3 vcf_annotate.py —INPUT.vcf —OUTPUT_FILE_NAME
 
 
 ## Dependencies
-See environmnet.yml
+See environment.yml
