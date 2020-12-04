@@ -23,6 +23,7 @@ Command line:
 python3 vcf_parser_prototype.py <INPUT.vcf> <OUTPUT_FILE_NAME>
 ```
 
+An Internet connection is required to query via the ExAC API.
 
 ## Dependencies
 See environment.yml
