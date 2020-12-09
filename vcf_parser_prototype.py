@@ -71,7 +71,7 @@ class VCF_Reader(object):
     '''
     A class to parse a VCF file
     
-    Descrption of a VCF file
+    Description of a VCF file
 
     A VCF file has three sections.
 
